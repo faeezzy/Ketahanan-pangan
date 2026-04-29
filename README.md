@@ -1,7 +1,7 @@
 # 🌾 PanganWatch
 ### Sistem Pemantauan & Analisis Ketahanan Pangan Indonesia
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ketahanan-pangan-hdu3ahlrkfush4pjesbgyc.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?logo=scikit-learn&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white)
@@ -23,9 +23,7 @@ PanganWatch menjawab pertanyaan kunci:
 
 ## 🚀 Demo
 
-🔗 **Live App:** [panganwatch.streamlit.app](https://YOUR-APP-URL.streamlit.app](https://ketahanan-pangan-hdu3ahlrkfush4pjesbgyc.streamlit.app/)
-
-![PanganWatch Dashboard](https://img.shields.io/badge/Status-Live-brightgreen)
+🔗 **Live App:** [ketahanan-pangan-hdu3ahlrkfush4pjesbgyc.streamlit.app](https://ketahanan-pangan-hdu3ahlrkfush4pjesbgyc.streamlit.app/)
 
 ---
 
