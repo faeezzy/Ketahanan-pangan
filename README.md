@@ -87,7 +87,7 @@ panganwatch/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/USERNAME/panganwatch.git
+git clone https://github.com/faeezzy/panganwatch.git
 cd panganwatch
 
 # 2. Install dependencies
