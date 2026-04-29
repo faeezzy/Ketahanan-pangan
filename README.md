@@ -23,7 +23,7 @@ PanganWatch menjawab pertanyaan kunci:
 
 ## 🚀 Demo
 
-🔗 **Live App:** [panganwatch.streamlit.app](https://YOUR-APP-URL.streamlit.app)
+🔗 **Live App:** [panganwatch.streamlit.app](https://YOUR-APP-URL.streamlit.app](https://ketahanan-pangan-hdu3ahlrkfush4pjesbgyc.streamlit.app/)
 
 ![PanganWatch Dashboard](https://img.shields.io/badge/Status-Live-brightgreen)
 
@@ -87,14 +87,14 @@ panganwatch/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/faeezzy/panganwatch.git
+git clone https://github.com/faeezzy/Ketahanan-pangan.git
 cd panganwatch
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Jalankan Streamlit
-streamlit run app.py
+streamlit run app(1).py
 ```
 
 ---
